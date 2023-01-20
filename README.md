@@ -39,6 +39,11 @@ $ yarn install
 $ yarn dev
 ```
 
+
+
+
+
+
 ---
 
 ## Tecnologias usadas / Frontend
